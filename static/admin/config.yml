@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: roygiladi/Gatsby-NetlifyCMS-POC
+
+media_folder: static/img
+public_folder: /img
